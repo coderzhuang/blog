@@ -19,9 +19,10 @@
 * [ ] [垃圾回收机制]
 
 ## mysql
+* [ ] [表结构设计](https://github.com/coderzhuang/blog/issues/7)
+* [ ] [读写分离&分库分表](https://github.com/coderzhuang/blog/issues/8)
 * [ ] [索引]
 * [ ] [事务]
-* [ ] [主从复制]
 
 ## redis
 * [ ] [redis 基础](https://github.com/coderzhuang/blog/issues/2)

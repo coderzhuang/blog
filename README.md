@@ -18,6 +18,8 @@
 * [ ] [标准库 - context]
 * [ ] [垃圾回收机制]
 
+## oop
+
 ## mysql
 * [ ] [表结构设计](https://github.com/coderzhuang/blog/issues/7)
 * [ ] [读写分离&分库分表](https://github.com/coderzhuang/blog/issues/8)
@@ -41,8 +43,14 @@
 
 ## 微服务
 
+## DDD
+
 ## 网格服务
+
+## 分布式
+
+## 高并发
 
 ## 其他
 * [ ] [密钥转发](https://github.com/coderzhuang/blog/issues/1)
-* [ ] [git的使用]()
+* [ ] git的使用

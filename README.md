@@ -1,7 +1,7 @@
 # blog
 
 ## 计算机基础
-* [ ] linux常用命令
+* [ ] [linux常用命令](https://github.com/coderzhuang/blog/issues/9)
 * [ ] 操作系统 - 进程、线程、协程
 * [ ] 操作系统 - 进程间通信
 * [ ] 关于锁

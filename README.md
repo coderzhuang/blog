@@ -13,6 +13,7 @@
 * [ ] 同步异步、阻塞非阻塞
 
 ## golang
+* [slice&map 使用注意](https://github.com/coderzhuang/blog/issues/15)
 * [ ] [GMP模型]
 * [ ] [go协程 & 通道]
 * [ ] [标准库 - context]

@@ -12,15 +12,12 @@
 * [ ] http & https
 * [ ] [关于rpc](https://github.com/coderzhuang/blog/issues/10)
 
-
 ## golang
 * [ ] [slice&map 使用注意](https://github.com/coderzhuang/blog/issues/15)
 * [ ] [GMP模型]
 * [ ] [go协程 & 通道]
 * [ ] [标准库 - context]
 * [ ] [垃圾回收机制]
-
-## oop
 
 ## mysql
 * [ ] [表结构设计](https://github.com/coderzhuang/blog/issues/7)
@@ -43,11 +40,13 @@
 
 ## 架构
 
-## 微服务
-
-## DDD
-
-## 网格服务
+### 高性能
+### 高可用
+### 可扩展
+#### oop
+#### 微服务
+#### DDD
+#### 网格服务
 
 ## 分布式
 

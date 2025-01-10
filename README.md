@@ -41,7 +41,7 @@
 ## 架构
 
 ### [高性能](https://github.com/coderzhuang/blog/issues/17)
-### 高可用
+### [高可用](https://github.com/coderzhuang/blog/issues/18)
 ### 可扩展
 #### oop
 #### 微服务
